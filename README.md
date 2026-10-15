@@ -1,3 +1,5 @@
+<DOCTYPE html>
+
 <title>The REAL Westfield News<title>
 <h1> The REAL Westfield News </h1>
 

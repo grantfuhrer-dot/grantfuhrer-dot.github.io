@@ -17,6 +17,6 @@
         <h3> External News </h3>
         <p3>To learn more about the amazing town that is Westfield, take a look at some of the fake news written by our best!
             <br><br>
-            <a href="http://thewestfieldnews.com/" target="blank"></p3>
+            <a href="http://thewestfieldnews.com/" target="blank">The Westfield News (not real)</a></p3>
       </body>
 </html>

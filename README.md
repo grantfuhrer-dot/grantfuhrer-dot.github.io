@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
     <h1> 
         <title>The REAL Westfield News</title>
         The REAL Westfield News 
     </h1>
     <body>
-        <p> <a href="/BasicWebDev/assignment1.html" target="blank">Latest in Westfield News</a> 
+        <p> <a href="/BasicWebDev/assignment1.html">Latest in Westfield News</a> 
           <br><br>
           <a href="/BasicWebDev/Document/The REAL Westfield News.pdf" target="blank">PDF file</a> 
           </p>

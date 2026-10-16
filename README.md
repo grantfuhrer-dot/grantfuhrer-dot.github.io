@@ -10,6 +10,7 @@
         <br><br>
         <h2> Our News Articles </h2>
         <p2> <a href="/BasicWebDev/assignment1.html">Guest Appearance in Parade</a> 
+            <br><br>
           <a href="/BasicWebDev/Document/The REAL Westfield News.pdf" target="blank">PDF file</a> 
           </p2>
         <br><br>

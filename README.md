@@ -4,9 +4,16 @@
         The REAL Westfield News 
     </h1>
     <body>
-        <p> <a href="/BasicWebDev/assignment1.html">Latest in Westfield News</a> 
-          <br><br>
+        <p1>
+            This website gives you all the latest news in the small, small, small town of Westfield. Learn everything from massive events, weather updates, and much more! Get the latest scoop, and none of that censored stuff either: the real stuff.
+        </p1>
+        <br><br>
+        <h2> Our News Articles </h2>
+        <p2> <a href="/BasicWebDev/assignment1.html">Guest Appearance in Parade</a> 
           <a href="/BasicWebDev/Document/The REAL Westfield News.pdf" target="blank">PDF file</a> 
-          </p>
+          </p2>
+        <br><br>
+        <h3> External News </h3>
+        <p3>To learn more about the amazing town that is Westfield, take a look at some of the fake news written by our best!<a href="http://thewestfieldnews.com/" target="blank"></p3>
       </body>
 </html>

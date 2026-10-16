@@ -9,14 +9,15 @@
         </p1>
         <br><br>
         <h2> Our News Articles </h2>
-        <p2> <a href="/BasicWebDev/assignment1.html">Guest Appearance in Parade</a> 
+        <p2> <a href="/BasicWebDev/assignment1.html"> Guest Appearance in Parade </a> 
             <br><br>
-          <a href="/BasicWebDev/Document/The REAL Westfield News.pdf" target="blank">PDF file</a> 
+          <a href="/BasicWebDev/Document/The REAL Westfield News.pdf" target="blank"> PDF file </a> 
           </p2>
         <br><br>
         <h3> External News </h3>
         <p3>To learn more about the amazing town that is Westfield, take a look at some of the fake news written by our best!
             <br><br>
-            <a href="http://thewestfieldnews.com/" target="blank">The Westfield News (not real)</a></p3>
+            <a href="http://thewestfieldnews.com/" target="blank"> The Westfield News (not real) </a>
+        </p3>
       </body>
 </html>

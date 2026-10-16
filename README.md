@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <title>The REAL Westfield News</title>
-    <h1> The REAL Westfield News </h1>
+    <h1> 
+        <title>The REAL Westfield News</title>
+        The REAL Westfield News 
+    </h1>
     <body>
         <p> <a href="/BasicWebDev/assignment1.html" target="blank">Latest in Westfield News</a> 
           <br><br> 
